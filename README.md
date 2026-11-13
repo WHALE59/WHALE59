@@ -25,7 +25,7 @@
 
 **Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,py" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,py,ts,js,java" />
 
 **Engines**
 <br>
@@ -35,7 +35,6 @@
 <br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
 
-<sub>Visual Studio 2015 사용</sub>
 
 ## 📬 Contact
 
