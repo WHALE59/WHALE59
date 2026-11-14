@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:478CBF,100:1b1b2f&height=180&section=header&text=Hello%2C%20World!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-### 인디게임 개발, 게임 한글패치 제작을 하고있습니다.
+### 인디게임 개발, 게임 한글패치 제작
 
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-222c37?style=for-the-badge&logo=unity&logoColor=white)
