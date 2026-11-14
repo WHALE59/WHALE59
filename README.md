@@ -42,7 +42,7 @@
 <summary>펼쳐서 보기</summary>
 <br>
 
-- 이메일: sungwon4236@naver.com
+- E-MAIL: sungwon4236@naver.com
 
 </details>
 
