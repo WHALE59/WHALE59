@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:478CBF,100:1b1b2f&height=180&section=header&text=Hello%2C%20World!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:478CBF,100:1b1b2f&height=180&section=header&text=Game%20Lover&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 ### 인디게임 개발, 게임 한글패치 제작
 
